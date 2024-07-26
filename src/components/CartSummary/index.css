@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.checkOutBtn {
+  background-color: #0b69ff;
+  border: 0 solid;
+  outline: none;
+  color: white;
+  width: 100%;
+  padding: 8px;
+}
+.cartSummary {
+  width: 250px;
+  color: gray;
+  align-self: flex-end;
+}
+.totalAmount {
+  font-size: 28px;
+  font-weight: 600;
+  color: black;
+}
