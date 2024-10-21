@@ -1,7 +1,9 @@
 Nxt-Trendz
+
 Nxt-Trendz is a comprehensive online shopping application designed to provide users with a seamless shopping experience. Built with React and Node.js, the application features a responsive design, a robust cart system, and efficient state management.
 
 Features
+
 User-Friendly Interface: Designed for ease of use, enabling users to navigate through products effortlessly.
 Comprehensive Cart Functionality: Allows users to add, remove, and update items in their shopping cart.
 Responsive Design: Ensures optimal viewing across a wide range of devices, including desktops, tablets, and smartphones.
